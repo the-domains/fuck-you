@@ -1,6 +1,6 @@
 name: Fuck you
 favicon: null
-layout_spectrum: 0.83114
+layout_spectrum: 0.3090946418233216
 typography_spectrum: 0.018082757480442524
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 1
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  brandStrength: 0.4924504638183862
+  lightness: 0.4872418297454715
+  saturation: 0.26173919602297246
+  rhythmicContrast: 0.8013935703784227
 purpose: []
