@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fuck you]]></title>
         <description><![CDATA[Fuck you]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fuck-you/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:05:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 06:07:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fuck-you/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f8eabd-5d80-4e6a-af42-d77a3032ad72.jpg">]]></description>
+            <link>https://thegrid.ai/fuck-you/9b7d56c5-b346-4bd2-8610-7eff722caa91/index.html</link>
+            <guid isPermaLink="false">9b7d56c5-b346-4bd2-8610-7eff722caa91</guid>
+            <pubDate>Wed, 17 Feb 2016 06:07:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello</p>]]></description>
-            <link>undefinedf5a3c995-be1b-41c2-a9ee-93d901d41936/index.html</link>
+            <link>https://thegrid.ai/fuck-you/f5a3c995-be1b-41c2-a9ee-93d901d41936/index.html</link>
             <guid isPermaLink="false">f5a3c995-be1b-41c2-a9ee-93d901d41936</guid>
             <pubDate>Wed, 17 Feb 2016 06:05:44 GMT</pubDate>
         </item>
